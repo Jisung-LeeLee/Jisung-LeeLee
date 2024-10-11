@@ -1,4 +1,3 @@
-<hr>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jisung-LeeLee/Jisung-LeeLee/main/intro_hi_there.gif"  alt="👋 Hi there! I'm Jisung-Lee" title="👋 Hi there! I'm Jisung-Lee"/>
 </div>
@@ -49,10 +48,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
   <a href="https://velog.io/@2zi_sung">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  
-  <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-005FF9?style=for-the-badge&logo=mail&logoColor=white" />&nbsp
-  <a href="https://blog.naver.com/j_nary">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  <a href="https://google.com">
+    <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-005FF9?style=for-the-badge&logo=mail&logoColor=white"/>&nbsp
   </a>
 </div>
