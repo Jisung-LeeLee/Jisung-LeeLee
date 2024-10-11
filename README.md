@@ -42,8 +42,6 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 
 - 🤝 I’m looking for help with **dffdf**
 
-- 📫 How to reach me **asfdasfdadsf**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">📫 Contact 📫</h3>
+
