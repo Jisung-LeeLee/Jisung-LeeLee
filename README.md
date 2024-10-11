@@ -37,11 +37,11 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 
 - 🔭 I’m currently working on **KSPOT**
 
-- 🌱 I’m currently learning **dfdfsfs**
+- 🌱 I’m currently learning **large-scale data processing**
 
-- 👯 I’m looking to collaborate on **fdf**
+- 👯 I’m looking to collaborate on **AI and machine learning projects**
 
-- 🤝 I’m looking for help with **dffdf**
+- 🤝 I’m looking for help with **deep learning optimization techniques**
 
 <hr>
 <h3 align="justify">📫 Contact 📫</h3>
