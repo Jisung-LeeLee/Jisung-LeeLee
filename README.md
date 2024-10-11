@@ -4,7 +4,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page. \n I am Jisung-Lee and now  AI developer specializing in Python, creating intelligent systems and machine/deep learning models to solve complex problems efficiently. I have been programming for almost more than 3 years and worked with many languages and technologies.
+Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializing in Python, creating intelligent systems and machine/deep learning models to solve complex problems efficiently. I have been programming for almost more than 3 years and worked with many languages and technologies.
 </p>
 
 
