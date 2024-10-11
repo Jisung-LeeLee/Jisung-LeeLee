@@ -34,6 +34,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 </div>
 
 <br>
+
 - 🔭 I’m currently working on **KSPOT**
 
 - 🌱 I’m currently learning **large-scale data processing**
