@@ -6,7 +6,7 @@
 <p align="justify">
 Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializing in Python, creating intelligent systems and machine/deep learning models to solve complex problems efficiently. I have been programming for almost more than 3 years and worked with many languages and technologies.
 </p>
-
+<hr>
 <h3 align="justify">✨ Tech Stack ✨</h3>
 <h5 align="justify">AI</h5>
 <div align="justify">
@@ -43,6 +43,6 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 
 - 🤝 I’m looking for help with **dffdf**
 
-
-<h3 align="center">📫 Contact 📫</h3>
+<hr>
+<h3 align="justify">📫 Contact 📫</h3>
 
