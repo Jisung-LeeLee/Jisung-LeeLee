@@ -11,7 +11,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-1F8ACB?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
-  <img src="https://img.shields.io/badge/python-0854C1?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
