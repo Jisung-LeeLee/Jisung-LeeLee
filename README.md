@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jisung-LeeLee/Jisung-LeeLee/main/hi there!.gif" width="200" height="400" alt="👋 Hi there! I'm Jisung-Lee" title="👋 Hi there! I'm Jisung-Lee"/>
+<img src="https://raw.githubusercontent.com/Jisung-LeeLee/Jisung-LeeLee/main/intro.gif"  alt="👋 Hi there! I'm Jisung-Lee" title="👋 Hi there! I'm Jisung-Lee"/>
 </div>
 <p></p>
 <p align="justify">
