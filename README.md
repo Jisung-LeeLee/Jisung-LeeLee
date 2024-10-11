@@ -33,6 +33,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
 </div>
 
+<br>
 - 🔭 I’m currently working on **KSPOT**
 
 - 🌱 I’m currently learning **large-scale data processing**
@@ -41,7 +42,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 
 - 🤝 I’m looking for help with **deep learning optimization techniques**
 
-
+<br>
 <h3 align="justify">📫 Contact 📫</h3>
 <div align="justify">
   <a href="https://velog.io/@2zi_sung">
