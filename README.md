@@ -49,10 +49,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
   <a href="https://velog.io/@2zi_sung">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="20212908@soongsil.ac.kr">
-    <img
-      src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
+  <img src="https://img.shields.io/badge/2zi.sung00@gmail.com-FC6D26?style=for-the-badge&logo=mail&logoColor=white" />&nbsp
   <a href="https://blog.naver.com/j_nary">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
