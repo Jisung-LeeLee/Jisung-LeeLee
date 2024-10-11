@@ -46,7 +46,7 @@ Welcome to my GitHub Page. <br> I am Jisung-Lee and now  AI developer specializi
 <hr>
 <h3 align="justify">📫 Contact 📫</h3>
 <div align="justify">
-  <a href="https://velog.io/@jisung6236">
+  <a href="https://velog.io/@2zi_sung">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="20212908@soongsil.ac.kr">
